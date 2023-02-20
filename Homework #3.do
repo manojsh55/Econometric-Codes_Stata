@@ -115,4 +115,8 @@ test sqage
 test sqrtcrpacres sqage
 lrtest m1 m5
 
+**ladder test for possible transformation of data to get in normal
+ladder college
+ladder age
+
 
